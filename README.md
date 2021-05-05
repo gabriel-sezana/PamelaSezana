@@ -8,4 +8,4 @@
       
  ## Aqui estão algumas informações interessantes :point_down:
  
- [I'm an inline-style link](https://www.linkedin.com/in/p%C3%A2mela-sezana-7a8b4b1aa/)
+ <https://www.linkedin.com/in/p%C3%A2mela-sezana-7a8b4b1aa/>
