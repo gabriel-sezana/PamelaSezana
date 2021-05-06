@@ -37,3 +37,8 @@ Send me an email if you have any cool ideas [an e-mail](mailto:sezanapamela@gmai
 #### Editors and Operating Systems:
 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+
+<hr/>
+
+
+
