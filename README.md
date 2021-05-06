@@ -5,6 +5,7 @@
 
 
 <p align="center"> :octocat: <b><a href="https://drive.google.com/file/d/1a4Hoi-rjQ0S4iddyepuoBFxSJc8n23v5/view?usp=sharing">Resume</a> </b> :octocat: </p>
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
   
 ## About Me :wave:
 
