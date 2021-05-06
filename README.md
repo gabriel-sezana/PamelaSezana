@@ -35,8 +35,8 @@ Send me an email if you have any cool ideas [an e-mail](mailto:sezanapamela@gmai
 
 #### Deploys:
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
 #### Editors and Operating Systems:   
