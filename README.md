@@ -6,3 +6,15 @@
 
 <p align="center"> :octocat: <b><a href="https://drive.google.com/file/d/1a4Hoi-rjQ0S4iddyepuoBFxSJc8n23v5/view?usp=sharing">Resume</a> </b> :octocat: </p>
   
+## About Me :wave:
+
+
+Hey there! :smile: My name is Pâmela, I'm a Control and Automation engineer, I'm 23 years old, I'm from Colonel Fabriciano-Minas Gerais, and I'm looking for my first opportunity in the FullStack area.
+At the beginning of college, I got to know the development area and fell in love, since then I haven't stopped studying every day.
+I am currently focusing on HTML, CSS, and JavaScript, and as a way of practicing, I develop several projects that I will always share here with you.
+I recently took a Cybersecurity course because I believe that in addition to good code it is important to understand a little about security for better performance.
+I am always in the process of continuous learning and would love to assist in open source projects to contribute and collaborate.
+Determined, persistent, proactive, reasoning fast and rational, uses empathy for decision making. 
+
+I always try to work with focused and objective people, who are developing interesting and proven projects!
+Send me an email if you have any cool ideas [an e-mail](mailto:sezanapamela@gmail.com) 
