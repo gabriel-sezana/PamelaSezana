@@ -17,4 +17,10 @@ I am always in the process of continuous learning and would love to assist in op
 Determined, persistent, proactive, reasoning fast and rational, uses empathy for decision making. 
 
 I always try to work with focused and objective people, who are developing interesting and proven projects!
-Send me an email if you have any cool ideas [an e-mail](mailto:sezanapamela@gmail.com) 
+Send me an email if you have any cool ideas [an e-mail](mailto:sezanapamela@gmail.com) we can talk and even have a cup of coffee :coffee:
+
+
+
+## Technologies I'm Learning :books:
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
