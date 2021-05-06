@@ -31,7 +31,7 @@ Send me an email if you have any cool ideas [an e-mail](mailto:sezanapamela@gmai
 
 #### Back-end:
 
-<img src="https://img.shields.io/badge/-JSP-de6c1e?style=flat" > <img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" >
+<img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" >
 
 
 #### Editors and Operating Systems:
