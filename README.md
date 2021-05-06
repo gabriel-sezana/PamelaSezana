@@ -47,7 +47,7 @@ Send me an email if you have any cool ideas [an e-mail](mailto:sezanapamela@gmai
 
 <hr/>
 
-💥: Inspired by [@BrennanBrown](https://github.com/brennanbrown)
+💥 Inspired by [@BrennanBrown](https://github.com/brennanbrown)
 
 
 
