@@ -33,13 +33,13 @@ Send me an email if you have any cool ideas [an e-mail](mailto:sezanapamela@gmai
 
 <img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" >
 
-### Deploys
+#### Deploys:
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-#### Editors and Operating Systems:
+#### Editors and Operating Systems:   
 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
