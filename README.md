@@ -31,9 +31,9 @@ Send me an email if you have any cool ideas [an e-mail](mailto:sezanapamela@gmai
 
 #### Back-end:
 
-
+<img src="https://img.shields.io/badge/-JSP-de6c1e?style=flat" > <img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" >
 
 
 #### Editors and Operating Systems:
 
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
