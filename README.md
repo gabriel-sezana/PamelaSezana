@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sezanapamela@gmail.com)](mailto:sezanapamela@gmail.com)
 
 
-<p align="center"> :octocat: <b><a href="https://drive.google.com/file/d/1a4Hoi-rjQ0S4iddyepuoBFxSJc8n23v5/view?usp=sharing">Resume</a> </b> :octocat: </p>
+<p align="center"> :octocat: <b><a href="https://drive.google.com/file/d/1jNowI14KHBnJ48KZsxEr3mp7hLmWrUjL/view?usp=sharing">Resume</a> </b> :octocat: </p>
 
   
 ## About Me :wave:
