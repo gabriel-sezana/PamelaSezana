@@ -10,7 +10,7 @@
 ## About Me :wave:
 
 
-Hey there! :smile: My name is Pâmela, I'm a Control and Automation engineer, I'm 24 years old, I'm from Coronel Fabriciano-Minas Gerais.
+Hey there! :smile: My name is Pâmela, I'm a Control and Automation engineer, I'm 27 years old, I'm from Coronel Fabriciano-Minas Gerais.
 At the beginning of college, I got to know the development area and fell in love, since then I haven't stopped studying every day.
 I am currently focusing on HTML, CSS, and JavaScript, and as a way of practicing, I develop several projects that I will always share here with you.
 I recently took a Cybersecurity course because I believe that in addition to good code it is important to understand a little about security for better performance.
