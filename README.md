@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/pamelasezana/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-  <a href="mailto:sezanapamela@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:gabrielsezana@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white"></a>
 </p>
 
 <p align="center"> 
