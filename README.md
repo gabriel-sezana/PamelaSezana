@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pâmela Sezana! 🚀</h1>
+<h1 align="center">Hi, I'm Gabriel Sezana! 🚀</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/pamelasezana/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
@@ -13,11 +13,11 @@
 
 ## About Me 👋
 
-Hey there! 😄 My name is Pâmela, and I'm a Control and Automation engineer from Coronel Fabriciano, Minas Gerais. At 27 years old, my passion for development started early in college, and since then, I've been committed to learning every day. Currently, I'm focusing on mastering HTML, CSS, and JavaScript, constantly working on projects that I share here.
+Hey there! 😄 My name is Gabriel, and I'm a Control and Automation engineer from Coronel Fabriciano, Minas Gerais. At 28 years old, my passion for development started early in college, and since then, I've been committed to learning every day. Currently, I'm focusing on mastering HTML, CSS, and JavaScript, constantly working on projects that I share here.
 
 Recently, I completed a Cybersecurity course, understanding the importance of secure code for optimal performance. I'm driven by a continuous learning mindset and am always eager to contribute to open-source projects.
 
-I'm determined, persistent, proactive, and value empathy in decision-making. I love working with focused, objective people on interesting and impactful projects. If you have a cool idea, let's chat! [Send me an email](mailto:sezanapamela@gmail.com) — we can even grab a coffee! ☕️
+I'm determined, persistent, proactive, and value empathy in decision-making. I love working with focused, objective people on interesting and impactful projects. If you have a cool idea, let's chat! [Send me an email](mailto:gabrielsezana@gmail.com) — we can even grab a coffee! ☕️
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300"/>
 
