@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"> 
-  🌟 <b><a href="https://drive.google.com/file/d/1jNowI14KHBnJ48KZsxEr3mp7hLmWrUjL/view?usp=sharing">Resume</a></b> 🌟
+  🌟 <b><a href="[https://drive.google.com/file/d/1jNowI14KHBnJ48KZsxEr3mp7hLmWrUjL/view?usp=sharing](https://drive.google.com/file/d/1DfY5XJjvZadz5XODy4JIBYJ1yFElle-7/view?usp=drive_link)">Resume</a></b> 🌟
 </p>
 
 ---
