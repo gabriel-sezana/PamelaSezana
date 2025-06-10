@@ -72,5 +72,5 @@ Estou aberto a **novos desafios** (CLT ou PJ), tanto em Backend quanto em áreas
 ---
 
 <div align="center">
-  <sub>Feito com 💙 por Gabriel Sezana | <a href="https://linkedin.com/in/gabrielsezana/">Conecte-se comigo no LinkedIn</a></sub>
+  <sub>Feito com 💙 por Gabriel Sezana | <a href="https://www.linkedin.com/in/gabriel-sezana/">Conecte-se comigo no LinkedIn</a></sub>
 </div>
